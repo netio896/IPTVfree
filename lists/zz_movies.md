@@ -4,8 +4,8 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-|     | FilmRise Movies     | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jGzMaRD.png"/> | FilmRiseFreeMovies.us |
-|     | FilmRise Sci-Fi     | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8) | <img height="20" src="https://i.imgur.com/FcN1OKo.png"/> | FilmRiseSciFi.us |
+|     | FilmRise Movies     | [x](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jGzMaRD.png"/> | FilmRiseFreeMovies.us |
+|     | FilmRise Sci-Fi     | [x](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8) | <img height="20" src="https://i.imgur.com/FcN1OKo.png"/> | FilmRiseSciFi.us |
 
 <h2>Pluto TV</h2>
 
@@ -39,5 +39,5 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|  
-|     | Film Detective | [>](https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8) | <img height="20" src="https://i.imgur.com/4aFLH9g.png"/> |
+|     | Film Detective | [x](https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8) | <img height="20" src="https://i.imgur.com/4aFLH9g.png"/> |
 

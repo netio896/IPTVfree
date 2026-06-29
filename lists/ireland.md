@@ -6,8 +6,8 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 4   | TG4 | [>](https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png"/> | TG4.ie |
-| 22  | Houses of the Oireachtas Channel | [>](https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8) | <img height="20" src="https://i.imgur.com/aC4fsCI.png"/> | OireachtasTV.ie |
+| 4   | TG4 | [x](https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png"/> | TG4.ie |
+| 22  | Houses of the Oireachtas Channel | [x](https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8) | <img height="20" src="https://i.imgur.com/aC4fsCI.png"/> | OireachtasTV.ie |
 
 
 <h2>Radio</h2>

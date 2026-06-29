@@ -6,7 +6,7 @@
 
 | #   | Channel    | Link  | Logo | EPG id |
 |:---:|:----------:|:-----:|:----:|:------:|
-| 7   | Arte Ⓖ     | [>](https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png"/> | ARTEFrench.fr |
+| 7   | Arte Ⓖ     | [x](https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png"/> | ARTEFrench.fr |
 | 8   | C8 Ⓓ | [>](https://www.dailymotion.com/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
 | 12  | NRJ 12 | [>](https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png"/> | NRJ12.fr |
 | 13  | LCP          | [>](https://lcp.fr/le-live-lcp-tnt-5433) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png"/> | LCP.fr |
@@ -32,9 +32,9 @@
 | 10  | TMC | [x](http://livetv.ktv.zone/12/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png"/> | TMC.fr |
 | 11  | TFX | [x](http://livetv.ktv.zone/13/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
 | 20  | TF1 Séries Films | [x](http://livetv.ktv.zone/22/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
-| 29  | TV5 Monde Info | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> | TV5MondeInfo.fr |
-| 30  | TV5 Monde FBS | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeFranceBelgiumSwitzerland.fr |
-| 31  | TV5 Monde Europe | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeEurope.fr |
+| 29  | TV5 Monde Info | [x](https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> | TV5MondeInfo.fr |
+| 30  | TV5 Monde FBS | [x](https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeFranceBelgiumSwitzerland.fr |
+| 31  | TV5 Monde Europe | [x](https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeEurope.fr |
 
 <h2>Unreliable (other)</h2>
 
