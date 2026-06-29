@@ -5,17 +5,23 @@ on:
     branches: [ master ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  update-plalist:
+  update-playlist:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
+
+      - name: Remove dead sources
+        run: python3 tools/remove_dead_sources.py
+
       - name: Update playlist
-        run: |
-          git config user.name "PlaylistBot" || true
-          git config user.email "playlistbot@users.noreply.github.com" || true
-          python3 ./make_playlist.py
-          git add .
-          git diff --staged --quiet || git commit --quiet -m "Update Playlist (GitHub Actions)"
-          git diff --quiet HEAD @{u} || git push -f origin HEAD
+        run: python3 ./make_playlist.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update playlist and disable dead sources"
