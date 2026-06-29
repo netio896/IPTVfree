@@ -4,7 +4,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | Беларусь 1 | [>](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belarus_1_logo.svg/742px-Belarus_1_logo.svg.png"/> | Belarus1.by |
+| 1   | Беларусь 1 | [x](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belarus_1_logo.svg/742px-Belarus_1_logo.svg.png"/> | Belarus1.by |
 | 0   | Беларусь 2 | [x](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Belarus_2_logo.svg/742px-Belarus_2_logo.svg.png"/> | Belarus2.by |
 | 0   | Беларусь 3 | [x](https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Belarus_3_logo.svg/742px-Belarus_3_logo.svg.png"/> | Belarus3.by |
 | 4   | ОНТ Ⓢ | [x](https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg/991px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg.png"/> | ONT.by |
@@ -28,7 +28,7 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | 1Mus | [>](http://hz1.teleport.cc/HLS/HD.m3u8) | <img height="20" src="https://i.imgur.com/PozF9MT.png"/> | FirstMusicChannel.by |
-| 2   | 8 Kanal Vitebsk Ⓢ | [>](http://95.46.208.8:24433/art) | <img height="20" src="https://i.imgur.com/tjwBSTF.jpg"/> | 8kanal.by |
+| 2   | 8 Kanal Vitebsk Ⓢ | [x](http://95.46.208.8:24433/art) | <img height="20" src="https://i.imgur.com/tjwBSTF.jpg"/> | 8kanal.by |
 | 3   | Belros Ⓢ | [>](https://live2.mediacdn.ru/sr1/tro/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HWqxjGl.png"/> | BelRos.ru |
 | 5   | Belarus 4 Vitebsk Ⓢ | [x](http://95.46.208.8:26258/belarus4) | <img height="20" src="https://i.imgur.com/TW6Ap71.png"/> | Belarus4Vitebsk.by |
 | 7   | Hawe TV Vitebsk Ⓢ | [x](http://95.46.208.8:26259/nashe) | <img height="20" src="https://i.imgur.com/HOb5m5f.jpg"/> | NasheTV.by |

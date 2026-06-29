@@ -113,7 +113,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | BOM Channel | [>](https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hISoOK3.png"/> | BomChannel.it |
 | 0   | ByoBlu | [x](https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1xaHGtU.png"/> |
 | 0   | Cafe Tv 24 | [>](https://srvx1.selftv.video/cafe/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KbcbxFw.png"/> |
-| 0   | Calabria Uno Tv  | [>](https://635320cd397eb.streamlock.net/live/ngrp:calabriaunolive_all/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2TK1GQ5.png"/> |
+| 0   | Calabria Uno Tv  | [x](https://635320cd397eb.streamlock.net/live/ngrp:calabriaunolive_all/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2TK1GQ5.png"/> |
 | 0   | Calabria tv | [x](https://64b16f23efbee.streamlock.net/calabriatv-clone/calabriatv-clone/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qWirucd.png"/> |
 | 0   | Canale 10 | [>](https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KuQcjYV.png"/> |
 | 0   | Canale 2 | [>](https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ETqDkS1.png"/> |
@@ -346,7 +346,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Telejato | [x](https://telejato.liberotratto.com/hls/stream.m3u8) | <img height="20" src="https://i.imgur.com/r3Dqzdj.png"/> |
 | 0   | Teleleonessa | [>](http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8) | <img height="20" src="https://i.imgur.com/jq3etlV.png"/> |
 | 0   | TeleMajg | [>](https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9tefonp.jpg"/> |
-| 0   | Telenova | [>](https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8) | <img height="20" src="https://i.imgur.com/x41IkJK.png"/> | Telenova.it |
+| 0   | Telenova | [x](https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8) | <img height="20" src="https://i.imgur.com/x41IkJK.png"/> | Telenova.it |
 | 0   | Telerama | [>](https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/enfqUlI.jpg"/> |
 | 0   | TeleRegione | [>](https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8) | <img height="20" src="https://i.imgur.com/i5WozUP.png"/> |
 | 0   | TeleRegione Color | [x](https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8) | <img height="20" src="https://i.imgur.com/vi5Nf3S.png"/> |
@@ -359,7 +359,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Telesud Trapani | [x](https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tpZvU1P.png"/> |
 | 0   | Telesveva | [x](https://dc3.telesveva.com:4433/cmaf/livetv/index.mpd) | <img height="20" src="https://i.imgur.com/SCDETZC.jpeg"/> |
 | 0   | Teleuniverso | [>](https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8) | <img height="20" src="https://i.imgur.com/u8E9wBb.png"/> |
-| 0   | Televallo Trapani | [>](https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P6zuiRH.png"/> |
+| 0   | Televallo Trapani | [x](https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P6zuiRH.png"/> |
 | 0   | TG Norba 24 | [x](https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/9MhrrJK.png"/> | TGNorba24.it |
 | 0   | TLT Molise | [x](https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wgwD7gh.png"/> |
 | 0   | Top Calcio 24 | [x](https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8) | <img height="20" src="https://i.imgur.com/DnVPKPE.png"/> |
@@ -385,7 +385,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | VB33 | [x](https://live.ipstream.it/vb33/vb33.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ygDuIxU.png"/> |
 | 0   | Video Calabria | [>](https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Bc2AvIm.png"/> | VideoCalabria.it |
 | 0   | Video Mediterraneo | [>](https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hJHC3uQ.png"/> |
-| 0   | Video Nola | [>](https://videonola.aswifi.it/videonolaabr/live.m3u8) | <img height="20" src="https://i.imgur.com/M5z5UoD.jpg"/> |
+| 0   | Video Nola | [x](https://videonola.aswifi.it/videonolaabr/live.m3u8) | <img height="20" src="https://i.imgur.com/M5z5UoD.jpg"/> |
 | 0   | Video Regione Sicilia | [>](https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0szwnR3.png"/> |
 | 0   | Video Star Tv Sicilia | [>](https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1ddJVZ7.jpg"/> |
 | 0   | Video Touring Tv | [x](https://streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8) | <img height="20" src="https://i.imgur.com/E2Feao5.jpg"/> |

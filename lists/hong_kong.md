@@ -4,7 +4,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 31  | RTHK TV 31 | [>](https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8) | <img height="20" src="https://i.imgur.com/kf818kM.png"/> | RTHKTV31.hk |
+| 31  | RTHK TV 31 | [x](https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8) | <img height="20" src="https://i.imgur.com/kf818kM.png"/> | RTHKTV31.hk |
 | 32  | RTHK TV 32 | [x](https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8) | <img height="20" src="https://i.imgur.com/MXLuUoU.png"/> | RTHKTV32.hk |
 | 77  | HOY TV Ⓖ | [x](https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8) | <img height="20" src="https://i.imgur.com/NfVZPTT.png"/> | HKIBC.hk |
 | 83  | TVB News Channel | [x](https://tvp22.sky4k.top/index1.php) | <img height="20" src="https://i.imgur.com/Gwij0Fj.png"/> | TVBNewsChannel.hk |

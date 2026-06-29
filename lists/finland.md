@@ -16,7 +16,7 @@
 | 10  | Kutonen | [>](https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/4giVyxb.png"/> | Kutonen.fi |
 | 11  | TLC Finland | [>](https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/0d5hP3A.png"/> | TLCFinland.fi |
 | 12  | Star Channel Finland | [>](https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/640px-Star_Channel_2020.svg.png"/> | StarChannel.fi |
-| 13  | MTV Ava | [>](https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/rtyJVgB.png"/> | AVA.fi |
+| 13  | MTV Ava | [x](https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/rtyJVgB.png"/> | AVA.fi |
 | 14  | Hero | [>](https://live-fi.tvkaista.net/hero/live.m3u8?src=freetv) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Hero_color_RGB.png"/> | Hero.fi |
 | 15  | Frii | [>](https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/ljKoG9I.png"/> | Frii.fi |
 | 17  | Alfa Ⓢ | [>](https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fi/9/93/IRR-TV-1.png"/> | IRRTV.fi |
